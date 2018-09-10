@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+.page-content{
+    overflow:hidden;
+}
+
+.box-left{
+    float:left;
+    width:202px;
+}
+.box-right{
+    margin-left:202px;
+}
+
+.page-title {
+    text-align: center;
+    font: bold 32px/100px "";
+    background: rgba(0, 167, 208, 0.8);
+    color:#fff;
+  }
